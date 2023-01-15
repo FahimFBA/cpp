@@ -3,6 +3,7 @@ Learn C++ with a lot of practice and guidance from Md. Fahim Bin Amin. Repositor
 
 ## Content
 
-| Episode Number | Topic                        | Video Explanation (in Bengali)                                                  | Source Code                                                                                             |
-| -------------- | ---------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| 0              | Introduction to the Playlist | [YouTube](https://youtu.be/ArBau-NbYo4?list=PLutHME8vSEnEyOMy1AKHo07VibU10-cmu) | [freeCodeCamp Article](https://www.freecodecamp.org/news/how-to-install-c-and-cpp-compiler-on-windows/) |
+| Episode Number | Topic                                                 | Video Explanation (in Bengali)                                                        | Source Code                                                                                             |
+| -------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| 0              | Introduction to the Playlist                          | [YouTube Video](https://youtu.be/ArBau-NbYo4?list=PLutHME8vSEnEyOMy1AKHo07VibU10-cmu) | [freeCodeCamp Article](https://www.freecodecamp.org/news/how-to-install-c-and-cpp-compiler-on-windows/) |
+| 1              | Write your first C++ code and understand how it works | [YouTube Video](#content)                                                             | [Code](./HelloWorld/)                                                                                   |
